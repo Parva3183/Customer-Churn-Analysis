@@ -1,5 +1,5 @@
 
-#📈 Customer Churn Analysis for Telecom Company
+📈 Customer Churn Analysis for Telecom Company
 This project focuses on analyzing customer churn behavior for a telecom company. The main goal is to identify key factors that influence churn and build a predictive model to help reduce churn rates and improve customer retention strategies.
 
 📂 Dataset Description
