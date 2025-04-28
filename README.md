@@ -62,3 +62,16 @@ Higher monthly charges correlate with a greater churn probability.
 Customers subscribed to fewer services have higher churn rates.
 
 Contract type and payment method significantly impact churn behavior.
+
+-> 🚀 How to Run :-
+
+1. Clone this repository:
+git clone https://github.com/Parva3183/customer-churn-analysis.git
+
+2. Install required libraries:
+pip install -r requirements.txt
+
+3. Open and run the Jupyter Notebook:
+jupyter notebook
+
+
