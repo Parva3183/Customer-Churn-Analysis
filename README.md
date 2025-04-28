@@ -1,8 +1,7 @@
-
-📈 Customer Churn Analysis for Telecom Company
+-> 📈 Customer Churn Analysis for Telecom Company
 This project focuses on analyzing customer churn behavior for a telecom company. The main goal is to identify key factors that influence churn and build a predictive model to help reduce churn rates and improve customer retention strategies.
 
-📂 Dataset Description
+-> 📂 Dataset Description
 The dataset contains customer demographics, account information, and service usage details. Key features include:
 
 Customer ID
@@ -25,7 +24,7 @@ Payment Method
 
 Churn Status (Target variable)
 
-⚙️ Project Workflow
+-> ⚙️ Project Workflow
 Data Collection: Loaded the telecom churn dataset.
 
 Data Cleaning: Handled missing values, corrected data types, and removed duplicates.
@@ -40,7 +39,7 @@ Model Evaluation: Evaluated models based on Accuracy, Precision, Recall, F1-Scor
 
 Insights & Recommendations: Identified key churn drivers and proposed strategies to improve customer retention.
 
-🛠️ Technologies Used
+-> 🛠️ Technologies Used
 Python
 
 Pandas
@@ -55,7 +54,7 @@ Scikit-learn
 
 XGBoost
 
-📊 Key Insights
+-> 📊 Key Insights
 Customers with shorter tenure are more likely to churn.
 
 Higher monthly charges correlate with a greater churn probability.
